@@ -1,0 +1,9 @@
+/Users/jasmineawatramani/Desktop/DOT NET Projects/MVCtest/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.deps.json
+/Users/jasmineawatramani/Desktop/DOT NET Projects/MVCtest/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.dll
+/Users/jasmineawatramani/Desktop/DOT NET Projects/MVCtest/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.pdb
+/Users/jasmineawatramani/Desktop/DOT NET Projects/MVCtest/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csprojAssemblyReference.cache
+/Users/jasmineawatramani/Desktop/DOT NET Projects/MVCtest/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.AssemblyInfoInputs.cache
+/Users/jasmineawatramani/Desktop/DOT NET Projects/MVCtest/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.AssemblyInfo.cs
+/Users/jasmineawatramani/Desktop/DOT NET Projects/MVCtest/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csproj.CoreCompileInputs.cache
+/Users/jasmineawatramani/Desktop/DOT NET Projects/MVCtest/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.dll
+/Users/jasmineawatramani/Desktop/DOT NET Projects/MVCtest/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.pdb
